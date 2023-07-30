@@ -73,11 +73,11 @@ http://177.53.153.21:8001/play/a020/index.m3u8
 http://177.53.153.21:8001/play/a02i/index.m3u8
 #EXTINF:-1,DHE HD
 http://177.53.153.21:8001/play/a04c/index.m3u8
-#EXTINF:-1,DIRECTV Liga 1 Max
+#EXTINF:-1 group-title="Deportes",DIRECTV Liga 1 Max
 http://177.53.153.21:8001/play/a00h/index.m3u8
 #EXTINF:-1,DISC THEATHER HD
 http://177.53.153.21:8001/play/a097/index.m3u8
-#EXTINF:-1,Directv Sports Fight
+#EXTINF:-1 group-title="Deportes",Directv Sports Fight
 http://177.53.153.21:8001/play/a00i/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://177.53.153.21:8001/play/a0ar/index.m3u8
@@ -105,17 +105,17 @@ http://177.53.153.21:8001/play/a05i/index.m3u8
 http://177.53.153.21:8001/play/a06b/index.m3u8
 #EXTINF:-1,E! HD
 http://177.53.153.21:8001/play/a03s/index.m3u8
-#EXTINF:-1,ESPN +
+#EXTINF:-1 group-title="Deportes",ESPN +
 http://177.53.153.21:8001/play/a065/index.m3u8
-#EXTINF:-1,ESPN 2 HD
+#EXTINF:-1 group-title="Deportes",ESPN 2 HD
 http://177.53.153.21:8001/play/a021/index.m3u8
-#EXTINF:-1,ESPN 3 HD
+#EXTINF:-1 group-title="Deportes",ESPN 3 HD
 http://177.53.153.21:8001/play/a02c/index.m3u8
-#EXTINF:-1,ESPN 4 HD
+#EXTINF:-1 group-title="Deportes",ESPN 4 HD
 http://177.53.153.21:8001/play/a02u/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
+#EXTINF:-1 group-title="Deportes",ESPN EXTRA HD
 http://177.53.153.21:8001/play/a03a/index.m3u8
-#EXTINF:-1,ESPN HD
+#EXTINF:-1 group-title="Deportes",ESPN HD
 http://177.53.153.21:8001/play/a025/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky Sports
 http://190.61.101.9:9000/play/a05v/index.m3u8
@@ -125,29 +125,25 @@ http://168.228.194.33:48001/play/a0ba/index.m3u8
 http://168.228.194.33:48001/play/a0bb/index.m3u8
 #EXTINF:-1 group-title="Deportes",ESPN 2 HD (ᴍx)
 http://168.228.194.33:48001/play/a0b3/index.m3u8
-#EXTINF:-1 group-title="Deportes",ESPN 3 HD (ᴍx)
-http://168.228.194.33:48001/play/a0b4/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky Sports / Espn+
 http://168.228.194.33:48001/play/a0au/index.m3u8
 #EXTINF:-1 group-title="Deportes",Sky Sports 16 HD
 http://168.228.194.33:48001/play/a0b0/index.m3u8
-#EXTINF:-1 group-title="Deportes",beIN SPORTS HD
-http://168.228.194.33:48001/play/a002/index.m3u8
 #EXTINF:-1 group-title="Deportes",beIN SPORTS XTRA ñ HD
 http://168.228.194.33:48001/play/a003/index.m3u8
-#EXTINF:-1,Eleven Sports 1 4K
+#EXTINF:-1 group-title="Deportes",Eleven Sports 1 4K
 http://149.62.183.207:4000/play/a01b/index.m3u8
 #EXTINF:-1,EXITOSA TV
 http://177.53.153.21:8001/play/a0b3/index.m3u8
 #EXTINF:-1,El Gourmet HD
 http://177.53.153.21:8001/play/a02l/index.m3u8
-#EXTINF:-1,ElCanaldelFutbol HD
+#EXTINF:-1 group-title="Deportes",ElCanaldelFutbol HD
 http://177.53.153.21:8001/play/a040/index.m3u8
 #EXTINF:-1,Europa HD
 http://177.53.153.21:8001/play/a08y/index.m3u8
 #EXTINF:-1,Exa TV
 http://177.53.153.21:8001/play/a08i/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
+#EXTINF:-1 group-title="Deportes",FOX Sports 2 HD
 http://177.53.153.21:8001/play/a02v/index.m3u8
 #EXTINF:-1,FUTV CR
 http://177.53.153.21:8001/play/a09j/index.m3u8
@@ -157,13 +153,13 @@ http://177.53.153.21:8001/play/a02z/index.m3u8
 http://177.53.153.21:8001/play/a08t/index.m3u8
 #EXTINF:-1,Food Network HD
 http://177.53.153.21:8001/play/a03v/index.m3u8
-#EXTINF:-1,Fox Sports 1 HD
+#EXTINF:-1 group-title="Deportes",Fox Sports 1 HD
 http://177.53.153.21:8001/play/a04e/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
+#EXTINF:-1 group-title="Deportes",Fox Sports 3 HD
 http://177.53.153.21:8001/play/a02d/index.m3u8
-#EXTINF:-1,GOLPERU HD
+#EXTINF:-1 group-title="Deportes",GOLPERU HD
 http://177.53.153.21:8001/play/a03z/index.m3u8
-#EXTINF:-1,GolTV HD
+#EXTINF:-1 group-title="Deportes",GolTV HD
 http://177.53.153.21:8001/play/a03t/index.m3u8
 #EXTINF:-1,Golden HD
 http://177.53.153.21:8001/play/a03o/index.m3u8
@@ -171,7 +167,7 @@ http://177.53.153.21:8001/play/a03o/index.m3u8
 http://177.53.153.21:8001/play/a054/index.m3u8
 #EXTINF:-1,Golden Premiere HD
 http://177.53.153.21:8001/play/a053/index.m3u8
-#EXTINF:-1,Golf Channel HD
+#EXTINF:-1 group-title="Deportes",Golf Channel HD
 http://177.53.153.21:8001/play/a06m/index.m3u8
 #EXTINF:-1,HBO 2 HD
 http://177.53.153.21:8001/play/a03i/index.m3u8
@@ -275,8 +271,6 @@ http://177.53.153.21:8001/play/a00l/index.m3u8
 http://177.53.153.21:8001/play/a022/index.m3u8
 #EXTINF:-1,STAR TVE HD
 http://177.53.153.21:8001/play/a03g/index.m3u8
-#EXTINF:-1,Sextreme
-http://177.53.153.21:8001/play/a01p/index.m3u8
 #EXTINF:-1,Sony HD
 http://177.53.153.21:8001/play/a01t/index.m3u8
 #EXTINF:-1,Sony Movies HD
@@ -301,7 +295,7 @@ http://177.53.153.21:8001/play/a04z/index.m3u8
 http://177.53.153.21:8001/play/a08f/index.m3u8
 #EXTINF:-1,TNT HD
 http://177.53.153.21:8001/play/a02b/index.m3u8
-#EXTINF:-1,TNT SPORTS HD
+#EXTINF:-1 group-title="Deportes",TNT SPORTS HD
 http://177.53.153.21:8001/play/a01x/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://177.53.153.21:8001/play/a02y/index.m3u8
@@ -323,13 +317,13 @@ http://177.53.153.21:8001/play/a03p/index.m3u8
 http://177.53.153.21:8001/play/a06f/index.m3u8
 #EXTINF:-1,Telenovelas
 http://177.53.153.21:8001/play/a01i/index.m3u8
-#EXTINF:-1,Tigo Sports HD
+#EXTINF:-1 group-title="Deportes",Tigo Sports HD
 http://177.53.153.21:8001/play/a094/index.m3u8
 #EXTINF:-1,Tooncast
 http://177.53.153.21:8001/play/a085/index.m3u8
 #EXTINF:-1,Travelxp HD
 http://177.53.153.21:8001/play/a02m/index.m3u8
-#EXTINF:-1,TyC Sports HD
+#EXTINF:-1 group-title="Deportes",TyC Sports HD
 http://177.53.153.21:8001/play/a03y/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
 http://177.53.153.21:8001/play/a02s/index.m3u8
@@ -343,8 +337,6 @@ http://177.53.153.21:8001/play/a09g/index.m3u8
 http://177.53.153.21:8001/play/a09f/index.m3u8
 #EXTINF:-1,Univision HD
 http://177.53.153.21:8001/play/a0au/index.m3u8
-#EXTINF:-1,Venus
-http://177.53.153.21:8001/play/a01o/index.m3u8
 #EXTINF:-1,WARNER HD
 http://177.53.153.21:8001/play/a08l/index.m3u8
 #EXTINF:-1,WILLAX
