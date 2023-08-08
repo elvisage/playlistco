@@ -109,16 +109,16 @@ http://45.228.234.193:16000/play/a0b4/index.m3u8
 http://45.228.234.193:16000/play/a0b3/index.m3u8
 #EXTINF:-1,H2
 http://45.228.234.193:16000/play/a0d6/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://45.228.234.193:16000/play/a0ft/index.m3u8
-#EXTINF:-1,HBO HD
-http://45.228.234.193:16000/play/a0fq/index.m3u8
-#EXTINF:-1,HBO Plus HD
-http://45.228.234.193:16000/play/a0fs/index.m3u8
-#EXTINF:-1,HBO XTREME
-http://45.228.234.193:16000/play/a0fu/index.m3u8
-#EXTINF:-1,HBO2 HD
-http://45.228.234.193:16000/play/a0fr/index.m3u8
+#EXTINF:-1,065 HBO Family HD
+http://45.228.232.205:16000/play/a043/index.m3u8
+#EXTINF:-1,066 HBO HD
+http://45.228.232.205:16000/play/a040/index.m3u8
+#EXTINF:-1,067 HBO Plus HD
+http://45.228.232.205:16000/play/a042/index.m3u8
+#EXTINF:-1,068 HBO XTREME HD
+http://45.228.232.205:16000/play/a08k/index.m3u8
+#EXTINF:-1,069 HBO2 HD
+http://45.228.232.205:16000/play/a041/index.m3u8
 #EXTINF:-1,History Channel
 http://45.228.234.193:16000/play/a0e0/index.m3u8
 #EXTINF:-1,History HD
