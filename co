@@ -95,14 +95,10 @@ http://45.228.234.193:16000/play/a0f8/index.m3u8
 http://45.228.234.193:16000/play/a0da/index.m3u8
 #EXTINF:-1,Fox Sport 3
 http://45.228.234.193:16000/play/a0bl/index.m3u8
-#EXTINF:-1,FUTV CR
-http://45.228.234.193:16000/play/a0ea/index.m3u8
 #EXTINF:-1,FUTV HD CR
 http://45.228.234.193:16000/play/a0f4/index.m3u8
 #EXTINF:-1,FX HD
 http://45.228.234.193:16000/play/a0c8/index.m3u8
-#EXTINF:-1,Film & arts HD
-http://45.228.234.193:16000/play/a0c4/index.m3u8
 #EXTINF:-1,Food Network HD
 http://181.177.255.253:8000/play/a02g/index.m3u8
 #EXTINF:-1,Golden
@@ -131,20 +127,8 @@ http://45.228.234.193:16000/play/a0bw/index.m3u8
 http://45.228.234.193:16000/play/a0ck/index.m3u8
 #EXTINF:-1,Latin America Sport
 http://45.228.234.193:16000/play/a0dc/index.m3u8
-#EXTINF:-1,MTV
-http://45.228.234.193:16000/play/a0ep/index.m3u8
-#EXTINF:-1,MTV 00s
-http://45.228.234.193:16000/play/a0dd/index.m3u8
-#EXTINF:-1,MTV 00s HD
-http://45.228.234.193:16000/play/a0co/index.m3u8
-#EXTINF:-1,MTV 80s
-http://45.228.234.193:16000/play/a0bn/index.m3u8
 #EXTINF:-1,MTV HD
 http://45.228.234.193:16000/play/a0by/index.m3u8
-#EXTINF:-1,MTV Hits
-http://45.228.234.193:16000/play/a0bm/index.m3u8
-#EXTINF:-1,MTV SIM HD
-http://45.228.234.193:16000/play/a0cn/index.m3u8
 #EXTINF:-1,Nat Geo HD
 http://45.228.234.193:16000/play/a0f9/index.m3u8
 #EXTINF:-1,National Geographic
@@ -153,8 +137,6 @@ http://45.228.234.193:16000/play/a0bj/index.m3u8
 http://45.228.234.193:16000/play/a0cg/index.m3u8
 #EXTINF:-1,Nickelodeon
 http://45.228.234.193:16000/play/a0eh/index.m3u8
-#EXTINF:-1,Paramount
-http://45.228.234.193:16000/play/a0fo/index.m3u8
 #EXTINF:-1,Paramount HD
 http://45.228.234.193:16000/play/a0fa/index.m3u8
 #EXTINF:-1,RCN HD
@@ -179,10 +161,6 @@ http://45.228.234.193:16000/play/a0ca/index.m3u8
 http://45.228.234.193:16000/play/a0ew/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://45.228.234.193:16000/play/a0c1/index.m3u8
-#EXTINF:-1,Sun Channel
-http://45.228.234.193:16000/play/a0d8/index.m3u8
-#EXTINF:-1,SyFy
-http://45.228.234.193:16000/play/a0dx/index.m3u8
 #EXTINF:-1,TBS
 http://45.228.234.193:16000/play/a0bi/index.m3u8
 #EXTINF:-1,TCM
@@ -193,22 +171,10 @@ http://45.228.234.193:16000/play/a0e1/index.m3u8
 http://45.228.234.193:16000/play/a0bp/index.m3u8
 #EXTINF:-1,TNT HD
 http://45.228.234.193:16000/play/a0ci/index.m3u8
-#EXTINF:-1,TNT Series
-http://45.228.234.193:16000/play/a0bh/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://45.228.234.193:16000/play/a0fb/index.m3u8
-#EXTINF:-1,TV Max - PAN
-http://45.228.234.193:16000/play/a0ed/index.m3u8
-#EXTINF:-1,TVChile
-http://45.228.234.193:16000/play/a0au/index.m3u8
-#EXTINF:-1,TVE
-http://45.228.234.193:16000/play/a0ez/index.m3u8
-#EXTINF:-1,Teen Nick HD
-http://45.228.234.193:16000/play/a0c0/index.m3u8
 #EXTINF:-1,Telemundo HD
 http://45.228.234.193:16000/play/a0c7/index.m3u8
-#EXTINF:-1,Teleuniverso - RD
-http://45.228.234.193:16000/play/a0cx/index.m3u8
 #EXTINF:-1,Tigo Sports HD
 http://45.228.234.193:16000/play/a0cf/index.m3u8
 #EXTINF:-1,Tru TV
@@ -235,5 +201,3 @@ http://45.228.234.193:16000/play/a0e6/index.m3u8
 http://45.228.234.193:16000/play/a0du/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://190.61.43.118:45000/play/a024
-#EXTINF:-1,ZooMoo
-http://45.228.234.193:16000/play/a0ar/index.m3u8
