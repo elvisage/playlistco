@@ -143,16 +143,14 @@ http://45.228.234.193:16000/play/a0fa/index.m3u8
 http://190.61.43.118:45000/play/a01m
 #EXTINF:-1,RCN Novelas
 http://45.228.234.193:16000/play/a0d4/index.m3u8
-#EXTINF:-1,096 SONY HD
+#EXTINF:-1,SONY HD
 http://45.228.232.205:16000/play/a06n/index.m3u8
-#EXTINF:-1,097 Sony Movies HD
+#EXTINF:-1,Sony Movies HD
 http://45.228.232.205:16000/play/a04h/index.m3u8
-#EXTINF:-1,098 SPACE HD
+#EXTINF:-1,SPACE HD
 http://45.228.232.205:16000/play/a07p/index.m3u8
-#EXTINF:-1,099 STAR CHANNEL
-http://45.228.232.205:16000/play/a070/index.m3u8
 #EXTINF:-1,STAR CHANNEL
-http://45.228.234.193:16000/play/a0ej/index.m3u8
+http://45.228.232.205:16000/play/a070/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://45.228.234.193:16000/play/a0e5/index.m3u8
 #EXTINF:-1,Studio Universal
