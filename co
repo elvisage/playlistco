@@ -203,31 +203,9 @@ http://45.228.232.205:16000/play/a08y/index.m3u8
 http://181.177.255.253:8000/play/a078/index.m3u8
 #EXTINF:-1,Directv Sports 2 HD
 http://181.177.255.253:8000/play/a076/index.m3u8
-#EXTINF:-1,Directv Sports Fight HD
-http://181.177.255.253:8000/play/a077/index.m3u8
 #EXTINF:-1,Directv Sports HD
 http://181.177.255.253:8000/play/a075/index.m3u8
-#EXTINF:-1 group-title="Deportes",DIRECTV SPORTS 1 HD (ᴀʀɢ)
-http://168.228.194.33:48001/play/a0ba/index.m3u8
-#EXTINF:-1 group-title="Deportes",DIRECTV SPORTS 2 HD (ᴀʀɢ)
+#EXTINF:-1,DIRECTV SPORTS 2 HD (ᴀʀɢ)
 http://168.228.194.33:48001/play/a0bb/index.m3u8
 #EXTINF:-1,DIRECTV SPORT 1 HD
 http://45.170.225.210:58001/play/a04g/index.m3u8
-#EXTINF:-1,bein SPORTS 1 HD
-http://81.49.224.77:8080/bein1/mpegts
-#EXTINF:-1,bein SPORTS 2 HD
-http://81.49.224.77:8080/bein2/mpegts
-#EXTINF:-1,bein SPORTS 3 HD
-http://81.49.224.77:8080/bein3/mpegts
-#EXTINF:-1,bein SPORTS 4 HD
-http://81.49.224.77:8080/bein4/mpegts
-#EXTINF:-1,bein SPORTS 5 HD
-http://81.49.224.77:8080/bein5/mpegts
-#EXTINF:-1,bein SPORTS 6 HD
-http://81.49.224.77:8080/bein6/mpegts
-#EXTINF:-1,bein SPORTS 7 HD
-http://81.49.224.77:8080/bein7/mpegts
-#EXTINF:-1,BEINS SPORTS EXTRA Ñ HD
-http://190.90.213.163:2837/play/a01p
-#EXTINF:-1,BEINS SPORTS Ñ
-http://190.90.213.163:2837/play/a01n
