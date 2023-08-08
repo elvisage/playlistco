@@ -152,7 +152,7 @@ http://45.228.232.205:16000/play/a07p/index.m3u8
 #EXTINF:-1,STAR CHANNEL
 http://45.228.232.205:16000/play/a070/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
-http://45.228.234.193:16000/play/a0e5/index.m3u8
+http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1,Studio Universal
 http://45.228.234.193:16000/play/a0ew/index.m3u8
 #EXTINF:-1,Studio Universal HD
@@ -164,9 +164,9 @@ http://45.228.234.193:16000/play/a0dg/index.m3u8
 #EXTINF:-1,TLC
 http://45.228.234.193:16000/play/a0e1/index.m3u8
 #EXTINF:-1,TNT
-http://45.228.234.193:16000/play/a0bp/index.m3u8
+http://45.228.232.205:16000/play/a02s/index.m3u8
 #EXTINF:-1,TNT HD
-http://45.228.234.193:16000/play/a0ci/index.m3u8
+http://45.166.92.22:58001/play/a013/index.m3u8
 #EXTINF:-1,TNT Series HD
 http://45.228.234.193:16000/play/a0fb/index.m3u8
 #EXTINF:-1,Telemundo HD
@@ -191,9 +191,19 @@ http://45.228.234.193:16000/play/a0cr/index.m3u8
 http://45.228.234.193:16000/play/a0er/index.m3u8
 #EXTINF:-1,Univision HD
 http://45.228.234.193:16000/play/a0ff/index.m3u8
-#EXTINF:-1,WARNER HD
-http://45.228.234.193:16000/play/a0e6/index.m3u8
+#EXTINF:-1,122 WARNER HD
+http://45.228.232.205:16000/play/a06m/index.m3u8
 #EXTINF:-1,Warner
 http://45.228.234.193:16000/play/a0du/index.m3u8
 #EXTINF:-1,Win Sports+ HD
 http://190.61.43.118:45000/play/a024
+#EXTINF:-1,128 SKY Sports
+http://45.228.232.205:16000/play/a08y/index.m3u8
+#EXTINF:-1,Directv Sports + HD
+http://181.177.255.253:8000/play/a078/index.m3u8
+#EXTINF:-1,Directv Sports 2 HD
+http://181.177.255.253:8000/play/a076/index.m3u8
+#EXTINF:-1,Directv Sports Fight HD
+http://181.177.255.253:8000/play/a077/index.m3u8
+#EXTINF:-1,Directv Sports HD
+http://181.177.255.253:8000/play/a075/index.m3u8
