@@ -48,6 +48,8 @@ http://45.228.234.193:16000/play/a0cj/index.m3u8
 http://45.228.232.205:16000/play/a07y/index.m3u8
 #EXTINF:-1,036 Discovery Home & Health
 http://45.228.232.205:16000/play/a072/index.m3u8
+#EXTINF:-1,Home & Health HD
+http://45.166.92.22:58001/play/a015/index.m3u8
 #EXTINF:-1,Discovery ID HD
 http://45.228.234.193:16000/play/a0fg/index.m3u8
 #EXTINF:-1,Discovery Science
@@ -112,8 +114,6 @@ http://45.228.232.205:16000/play/a041/index.m3u8
 http://45.228.234.193:16000/play/a0e0/index.m3u8
 #EXTINF:-1,070 History HD
 http://45.228.232.205:16000/play/a02z/index.m3u8
-#EXTINF:-1,Home & Health HD
-http://45.228.234.193:16000/play/a0ck/index.m3u8
 #EXTINF:-1,Latin America Sport
 http://45.228.234.193:16000/play/a0dc/index.m3u8
 #EXTINF:-1,MTV HD
