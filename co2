@@ -95,6 +95,8 @@ http://45.166.92.22:58001/play/a013/index.m3u8
 http://45.166.92.22:58001/play/a00r/index.m3u8
 #EXTINF:-1,TyCSports HD
 http://45.166.92.22:58001/play/a04d/index.m3u8
+#EXTINF:-1,TRUTV HD
+http://45.189.117.202:48000/play/a071/index.m3u8
 #EXTINF:-1,Universal cinema HD
 http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA ESTE HD
