@@ -35,16 +35,38 @@ http://45.166.92.22:58001/play/a01s/index.m3u8
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:-1,ESPN HD
-http://179.1.67.51:8000/play/a05y/index.m3u8
+#EXTINF:-1,ESPN
+http://45.5.151.151:8000/play/a0bq/index.m3u8
+#EXTINF:-1,ESPN
+http://45.5.151.151:8000/play/a0b3/index.m3u8
+#EXTINF:-1,ESPN +
+http://45.5.151.151:8000/play/a070/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.5.151.151:8000/play/a0bp/index.m3u8
+#EXTINF:-1,ESPN 2
+http://45.5.151.151:8000/play/a0b5/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://179.1.67.51:8000/play/a05i/index.m3u8
+http://45.5.151.151:8000/play/a0cb/index.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://45.5.151.151:8000/play/a0b4/index.m3u8
+#EXTINF:-1,ESPN 2 VK
+http://45.5.151.151:8000/play/a01r/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.5.151.151:8000/play/a02e/index.m3u8
+#EXTINF:-1,ESPN 3
+http://45.5.151.151:8000/play/a0br/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://179.1.67.51:8000/play/a05h/index.m3u8
+http://45.5.151.151:8000/play/a0cd/index.m3u8
+#EXTINF:-1,ESPN 4
+http://45.5.151.151:8000/play/a0ba/index.m3u8
 #EXTINF:-1,ESPN 4 HD
-http://179.1.67.51:8000/play/a034/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://179.1.67.51:8000/play/a05o/index.m3u8
+http://45.5.151.151:8000/play/a0b9/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.5.151.151:8000/play/a0cc/index.m3u8
+#EXTINF:-1,ESPN HD
+http://45.5.151.151:8000/play/a0b2/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://45.5.151.151:8000/play/a001/index.m3u8
 #EXTINF:-1,FOX NEWS HD
 http://45.166.92.22:58001/play/a04p/index.m3u8
 #EXTINF:-1,FOX SPORTS 3 HD
@@ -63,8 +85,10 @@ http://179.1.67.51:8000/play/a03d/index.m3u8
 http://45.166.92.22:58001/play/a04k/index.m3u8
 #EXTINF:-1,Golden HD
 http://179.1.67.51:8000/play/a04c/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://177.234.245.26:8000/play/a01a/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.5.151.151:8000/play/a00h/index.m3u8
+#EXTINF:-1,HBO Family
+http://45.5.151.151:8000/play/a08t/index.m3u8
 #EXTINF:-1,HBO HD
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1,HBO Plus HD
