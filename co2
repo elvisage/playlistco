@@ -52,14 +52,13 @@ http://45.166.92.22:58001/play/a00o/index.m3u8
 #EXTINF:-1,Fox Sports HD
 http://45.166.92.22:58001/play/a02m/index.m3u8
 #EXTINF:-1,Food Network HD
-http://179.1.67.51:8000/play/a03d/index.m3u8
+http://38.43.132.86:8000/play/a02b/index.m3u8
 #EXTINF:-1,GOL TV HD
 http://45.166.92.22:58001/play/a04k/index.m3u8
 #EXTINF:-1,Golden HD
 http://179.1.67.51:8000/play/a04c/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://38.43.132.86:8000/play/a035/index.m3u8
-#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0l5.png",HBO Family HD
 #EXTINF:-1,HBO HD
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1,HBO Plus HD
@@ -75,9 +74,7 @@ http://45.166.92.22:58001/play/a038/index.m3u8
 #EXTINF:-1,Home & Health HD
 http://45.166.92.22:58001/play/a015/index.m3u8
 #EXTINF:-1,Nat Geo HD
-http://45.166.92.22:58001/play/a01k/index.m3u8
-#EXTINF:-1,National Geographic
-http://45.166.92.22:58001/play/a032/index.m3u8
+http://38.43.132.86:8000/play/a02i/index.m3u8
 #EXTINF:-1,Paramount HD
 http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1,RCN HD
@@ -90,8 +87,6 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://45.166.92.22:58001/play/a00k/index.m3u8
-#EXTINF:-1,TELEMUNDO MIAMI 51
-http://45.166.92.22:58001/play/a05i/index.m3u8
 #EXTINF:-1,TLC
 http://45.166.92.22:58001/play/a04o/index.m3u8
 #EXTINF:-1,TNT HD
@@ -102,6 +97,18 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1,Universal cinema HD
 http://45.166.92.22:58001/play/a01t/index.m3u8
+#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
+http://45.190.187.105:58092/play/a06k/index.m3u8
+#EXTINF:-1,UNIVERSAL COMEDY HD
+http://45.190.187.105:58092/play/a02s/index.m3u8
+#EXTINF:-1,UNIVERSAL CRIME HD
+http://45.190.187.105:58092/play/a05t/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE HD
+http://45.190.187.105:58092/play/a05q/index.m3u8
+#EXTINF:-1,UNIVERSAL PREMIERE O HD
+http://45.190.187.105:58092/play/a05r/index.m3u8
+#EXTINF:-1,UNIVERSAL REALITY HD
+http://45.190.187.105:58092/play/a05s/index.m3u8
 #EXTINF:-1,Univision HD
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1,WARNER HD
