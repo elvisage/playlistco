@@ -87,8 +87,7 @@ http://45.166.92.22:58001/play/a04k/index.m3u8
 http://179.1.67.51:8000/play/a04c/index.m3u8
 #EXTINF:-1,HBO Family
 http://45.5.151.151:8000/play/a00h/index.m3u8
-#EXTINF:-1,HBO Family
-http://45.5.151.151:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-logo="http://45.5.117.172:8100/playlist/tvg-logo/a0l5.png",HBO Family HD
 #EXTINF:-1,HBO HD
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1,HBO Plus HD
