@@ -15,8 +15,8 @@ http://190.61.43.118:45000/play/a02v
 http://45.166.92.22:58001/play/a03y/index.m3u8
 #EXTINF:-1,CINECANAL HD
 http://45.166.92.22:58001/play/a04b/index.m3u8
-#EXTINF:-1,Cinemax HD
-http://181.177.255.253:8000/play/a00x/index.m3u8
+#EXTINF:-1,Cinemax HD 
+http://181.78.12.165:9000/play/a03z
 #EXTINF:-1,Cine Latino
 http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1,CineCanal
@@ -37,14 +37,6 @@ http://45.166.92.22:58001/play/a01s/index.m3u8
 http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:-1,Directv Sports + HD
-http://181.177.255.253:8000/play/a078/index.m3u8
-#EXTINF:-1,Directv Sports 2 HD
-http://181.177.255.253:8000/play/a076/index.m3u8
-#EXTINF:-1,Directv Sports Fight HD
-http://181.177.255.253:8000/play/a077/index.m3u8
-#EXTINF:-1,Directv Sports HD
-http://181.177.255.253:8000/play/a075/index.m3u8
 #EXTINF:-1,ESPN
 http://45.5.151.151:8000/play/a0bq/index.m3u8
 #EXTINF:-1,ESPN Premium HD
@@ -69,10 +61,8 @@ http://45.166.92.22:58001/play/a04k/index.m3u8
 http://179.1.67.51:8000/play/a04c/index.m3u8
 #EXTINF:-1,Golden HD
 http://45.233.169.13:8000/play/a0ar/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://38.43.132.86:8000/play/a035/index.m3u8
-#EXTINF:-1,HBO Family HD
-http://181.177.255.253:8000/play/a033/index.m3u8
+#EXTINF:-1,HBO Family HD 
+http://181.78.12.165:9000/play/a05y 
 #EXTINF:-1,HBO HD
 http://45.166.92.22:58001/play/a03s/index.m3u8
 #EXTINF:-1,HBO Plus HD
@@ -81,6 +71,8 @@ http://45.166.92.22:58001/play/a03u/index.m3u8
 http://45.166.92.22:58001/play/a03w/index.m3u8
 #EXTINF:-1,HBO2 HD
 http://45.166.92.22:58001/play/a03t/index.m3u8
+#EXTINF:-1,HBO 2 HD 
+http://181.78.12.165:9000/play/a04a 
 #EXTINF:-1,HBO POP HD 
 http://181.78.22.70:8000/play/a06e/index.m3u8
 #EXTINF:-1,HISTORY 2 HD
