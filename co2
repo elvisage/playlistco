@@ -115,20 +115,18 @@ http://45.166.92.22:58001/play/a00r/index.m3u8
 http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1,Tru TV HD
 http://181.78.208.254:8010/play/a00x/index.m3u8
-#EXTINF:-1,Universal cinema HD
-http://45.166.92.22:58001/play/a01t/index.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://45.190.187.105:58092/play/a06k/index.m3u8
+http://45.5.117.3:4000/play/a082/index.m3u8
 #EXTINF:-1,UNIVERSAL COMEDY HD
-http://45.190.187.105:58092/play/a02s/index.m3u8
+http://45.5.117.3:4000/play/a07o/index.m3u8
 #EXTINF:-1,UNIVERSAL CRIME HD
-http://45.190.187.105:58092/play/a05t/index.m3u8
+http://45.5.117.3:4000/play/a07n/index.m3u8
 #EXTINF:-1,UNIVERSAL PREMIERE HD
-http://45.190.187.105:58092/play/a05q/index.m3u8
+http://45.5.117.3:4000/play/a07k/index.m3u8
 #EXTINF:-1,UNIVERSAL PREMIERE O HD
-http://45.190.187.105:58092/play/a05r/index.m3u8
+http://45.5.117.3:4000/play/a07l/index.m3u8
 #EXTINF:-1,UNIVERSAL REALITY HD
-http://45.190.187.105:58092/play/a05s/index.m3u8
+http://45.5.117.3:4000/play/a07m/index.m3u8
 #EXTINF:-1,Univision HD
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1,WARNER HD
