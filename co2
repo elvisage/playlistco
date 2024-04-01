@@ -81,6 +81,8 @@ http://45.160.191.34:8000/play/a06m
 http://8.242.175.221:8000/play/a01p/index.m3u8
 #EXTINF:-1,HBO POP HD 
 http://45.179.164.30:8000/play/a052/index.m3u8
+#EXTINF:-1,HBOPOP HD
+http://45.160.191.34:8000/play/a05n
 #EXTINF:-1,HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,History HD
