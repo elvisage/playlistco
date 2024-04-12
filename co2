@@ -99,10 +99,8 @@ http://45.166.92.22:58001/play/a02o/index.m3u8
 http://45.166.92.22:58001/play/a048/index.m3u8
 #EXTINF:-1,Studio Universal HD
 http://45.166.92.22:58001/play/a00k/index.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1,TLC HD
 http://45.166.92.22:58001/play/a04o/index.m3u8
-#EXTINF:-1,034 - TLC HD
-http://161.132.108.74:50001/play/a033/index.m3u8
 #EXTINF:-1,TNT HD
 http://45.166.92.22:58001/play/a013/index.m3u8
 #EXTINF:-1,Telemundo HD
