@@ -37,6 +37,8 @@ http://161.132.108.74:50001/play/a03o/index.m3u8
 http://161.132.108.74:50001/play/a03p/index.m3u8
 #EXTINF:-1,116 - DSports + HD
 http://161.132.108.74:50001/play/a03q/index.m3u8
+#EXTINF:-1,TUDN HD
+http://143.255.35.223:8000/play/a01d
 #EXTINF:-1,ESPN 2 HD
 http://8.242.175.221:8000/play/a03s/index.m3u8
 #EXTINF:-1,ESPN 3 HD
@@ -98,7 +100,7 @@ http://38.43.132.86:8000/play/a02i/index.m3u8
 #EXTINF:-1,Paramount HD
 http://45.166.92.22:58001/play/a01l/index.m3u8
 #EXTINF:-1,RCN HD 
-http://8.242.175.221:8000/play/a02z/index.m3u8
+http://161.132.194.88:6178/play/a0st/index.m3u8
 #EXTINF:-1,SONY HD
 http://45.166.92.22:58001/play/a04a/index.m3u8
 #EXTINF:-1,SPACE HD
