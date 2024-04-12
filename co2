@@ -23,20 +23,20 @@ http://45.166.92.22:58001/play/a02c/index.m3u8
 http://45.166.92.22:58001/play/a02f/index.m3u8
 #EXTINF:-1,Comedy Central HD
 http://179.1.67.51:8000/play/a05j/index.m3u8
-#EXTINF:-1,DISCOVERY THEATHER HD
-http://45.166.92.22:58001/play/a014/index.m3u8
 #EXTINF:-1,DISNEY HD
 http://45.166.92.22:58001/play/a04q/index.m3u8
 #EXTINF:-1,Discovery Channel HD
 http://45.166.92.22:58001/play/a01n/index.m3u8
 #EXTINF:-1,Discovery Home & Health
 http://45.166.92.22:58001/play/a027/index.m3u8
-#EXTINF:-1,Discovery ID HD
-http://45.166.92.22:58001/play/a01s/index.m3u8
-#EXTINF:-1,Discovery Turbo
-http://45.166.92.22:58001/play/a026/index.m3u8
 #EXTINF:-1,Discovery World HD
 http://45.166.92.22:58001/play/a01p/index.m3u8
+#EXTINF:-1,114 - DSports HD
+http://161.132.108.74:50001/play/a03o/index.m3u8
+#EXTINF:-1,115 - DSports 2 HD
+http://161.132.108.74:50001/play/a03p/index.m3u8
+#EXTINF:-1,116 - DSports + HD
+http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1,ESPN 2 HD
 http://8.242.175.221:8000/play/a03s/index.m3u8
 #EXTINF:-1,ESPN 3 HD
