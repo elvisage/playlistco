@@ -10,7 +10,7 @@ http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1,Caracol HD
 http://190.61.43.118:45000/play/a02v
 #EXTINF:-1,CARACOL TV HD
-http://181.78.22.97:8000/play/a0b3/index.m3u8
+http://181.78.22.251:8090/play/a01u/index.m3u8
 #EXTINF:-1,CARTOON NT HD
 http://45.166.92.22:58001/play/a03y/index.m3u8
 #EXTINF:-1,CINECANAL HD
