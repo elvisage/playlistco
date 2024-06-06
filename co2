@@ -34,7 +34,7 @@ http://161.132.108.74:50001/play/a03p/index.m3u8
 #EXTINF:-1,116 - DSports + HD
 http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1,TUDN HD
-http://143.255.35.223:8000/play/a01d
+http://45.228.234.173:4000/play/a009/index.m3u8
 #EXTINF:-1,106 - ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
 #EXTINF:-1,107 - ESPN 2 HD
@@ -64,7 +64,7 @@ http://45.166.92.22:58001/play/a00s/index.m3u8
 #EXTINF:-1,FX Movies HD
 http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1,Food Network HD
-http://38.43.132.86:8000/play/a02b/index.m3u8
+http://45.232.176.17:8000/play/a02c
 #EXTINF:-1,Golden HD
 http://161.132.108.74:50001/play/a03m/index.m3u8
 #EXTINF:-1,HBO Family HD
