@@ -34,7 +34,7 @@ http://161.132.108.74:50001/play/a03p/index.m3u8
 #EXTINF:-1,116 - DSports + HD
 http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1,TUDN HD
-http://45.228.234.173:4000/play/a009/index.m3u8
+http://45.5.117.182:8000/play/a0km/index.m3u8
 #EXTINF:-1,106 - ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
 #EXTINF:-1,107 - ESPN 2 HD
@@ -84,7 +84,7 @@ http://45.5.117.182:8000/play/a0eP/index.m3u8
 #EXTINF:-1,HBO POP HD 
 http://45.179.164.30:8000/play/a052/index.m3u8
 #EXTINF:-1,HBOPOP HD
-http://181.188.216.148:8001/play/a07f
+http://190.119.123.220:4000/play/a00b/index.m3u8
 #EXTINF:-1,HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,History HD
