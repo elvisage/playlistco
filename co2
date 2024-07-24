@@ -34,7 +34,7 @@ http://161.132.108.74:50001/play/a03p/index.m3u8
 #EXTINF:-1,116 - DSports + HD
 http://161.132.108.74:50001/play/a03q/index.m3u8
 #EXTINF:-1,TUDN HD
-http://45.5.117.182:8000/play/a0km/index.m3u8
+http://170.82.37.21:8000/play/a015/index.m3u8
 #EXTINF:-1,106 - ESPN HD
 http://161.132.108.74:50001/play/a00b/index.m3u8
 #EXTINF:-1,107 - ESPN 2 HD
@@ -60,9 +60,11 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1,FOX NEWS HD
 http://45.166.92.22:58001/play/a04p/index.m3u8
 #EXTINF:-1,FX HD
-http://45.166.92.22:58001/play/a00s/index.m3u8
-#EXTINF:-1,FX Movies HD
+http://177.93.46.163:8000/play/a024
+#EXTINF:-1,Sony Movies HD
 http://45.166.92.22:58001/play/a00u/index.m3u8
+#EXTINF:-1,Sony Movies HD 2
+http://177.126.51.9:8000/play/a007
 #EXTINF:-1,Food Network HD
 http://45.232.176.17:8000/play/a02c
 #EXTINF:-1,Golden HD
@@ -78,13 +80,13 @@ http://45.5.117.182:8000/play/a0ea/index.m3u8
 #EXTINF:-1,HBO XTREME
 http://190.116.38.18:8000/play/a03d/index.m3u8
 #EXTINF:-1,HBO XTREME HD
-http://161.132.108.74:50001/play/a01y/index.m3u8
+http://177.93.41.134:4000/play/a08v/index.m3u8
 #EXTINF:-1,HBO 2 HD 
 http://45.5.117.182:8000/play/a0eP/index.m3u8
 #EXTINF:-1,HBO POP HD 
 http://45.179.164.30:8000/play/a052/index.m3u8
 #EXTINF:-1,HBOPOP HD
-http://190.119.123.220:4000/play/a00b/index.m3u8
+http://177.93.41.134:4000/play/a06d/index.m3u8
 #EXTINF:-1,HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,History HD
@@ -103,8 +105,16 @@ http://45.166.92.22:58001/play/a04a/index.m3u8
 http://45.166.92.22:58001/play/a02o/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
 http://45.166.92.22:58001/play/a048/index.m3u8
+#EXTINF:-1,STAR CHANNEL HD
+http://177.126.51.9:8000/play/a02o
+#EXTINF:-1,STAR CHANNEL HD
+http://177.126.51.9:8000/play/a018
+#EXTINF:-1,STAR CHANNEL HD
+http://177.126.51.9:8000/play/a00h
+#EXTINF:-1,STAR CHANNEL HD.2
+http://177.126.51.9:8000/play/a02n
 #EXTINF:-1,Studio Universal HD
-http://45.166.92.22:58001/play/a00k/index.m3u8
+http://177.126.51.9:8000/play/a01x
 #EXTINF:-1,Studio UniversalHD
 http://190.119.127.236:8000/play/a06b/index.m3u8
 #EXTINF:-1,TLC HD
@@ -134,4 +144,4 @@ http://45.166.92.22:58001/play/a049/index.m3u8
 #EXTINF:-1,Win Sports HD
 http://45.179.164.30:8000/play/a053/index.m3u8
 #EXTINF:-1,Win Sports+ HD
-http://45.179.164.30:8000/play/a03u/index.m3u8
+http://177.53.155.236:8000/play/a0c3/index.m3u8
