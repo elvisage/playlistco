@@ -8,31 +8,23 @@ http://45.166.92.22:58001/play/a00m/index.m3u8
 #EXTINF:-1,Antena 3
 http://45.166.92.22:58001/play/a041/index.m3u8
 #EXTINF:-1,Caracol HD
-http://190.60.38.114:1010/play/a07f/index.m3u8
+http://190.60.49.243:4000/play/a09c
 #EXTINF:-1,CARACOL TV HD
-http://45.176.232.106:45000/play/a086/index.m3u8
+http://190.60.49.243:4000/play/a07v
 #EXTINF:-1,CARTOON NT HD
 http://45.166.92.22:58001/play/a03y/index.m3u8
 #EXTINF:-1,CINECANAL HD
-http://45.166.92.22:58001/play/a04b/index.m3u8
+http://190.60.49.243:4000/play/a04p
 #EXTINF:-1,Cinemax HD 
-http://190.119.127.236:8000/play/a01o/index.m3u8
+http://190.60.49.243:4000/play/a075
 #EXTINF:-1,Cine Latino
 http://45.166.92.22:58001/play/a02c/index.m3u8
 #EXTINF:-1,Comedy Central HD
-http://161.132.108.74:50001/play/a00m/index.m3u8
-#EXTINF:-1,DISNEY HD
-http://45.166.92.22:58001/play/a04q/index.m3u8
+http://190.60.49.243:4000/play/a084
+#EXTINF:-1,Discovery H&H HD
+http://190.60.49.243:4000/play/a046
 #EXTINF:-1,Discovery Channel HD
-http://45.166.92.22:58001/play/a01n/index.m3u8
-#EXTINF:-1,Discovery World HD
-http://45.166.92.22:58001/play/a01p/index.m3u8
-#EXTINF:-1,114 - DSports HD
-http://161.132.108.74:50001/play/a03o/index.m3u8
-#EXTINF:-1,115 - DSports 2 HD
-http://161.132.108.74:50001/play/a03p/index.m3u8
-#EXTINF:-1,116 - DSports + HD
-http://161.132.108.74:50001/play/a03q/index.m3u8
+http://190.60.49.243:4000/play/a07y
 #EXTINF:-1,TUDN HD
 http://190.185.121.102:58092/play/a00m
 #EXTINF:-1,ESPN 2 HD
@@ -52,19 +44,19 @@ http://45.166.92.22:58001/play/a04d/index.m3u8
 #EXTINF:-1,FOX NEWS HD
 http://45.166.92.22:58001/play/a04p/index.m3u8
 #EXTINF:-1,FX HD
-http://177.93.46.163:8000/play/a024
+http://190.60.49.243:4000/play/a04h
 #EXTINF:-1,Sony Movies HD
 http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1,Sony Movies HD 2
 http://177.126.51.9:8000/play/a007
 #EXTINF:-1,Food Network HD
-http://45.232.176.17:8000/play/a02c
-#EXTINF:-1,Golden HD
-http://190.60.38.114:1010/play/a04d/index.m3u8
+http://190.60.49.243:4000/play/a07g
+EXTINF:-1,Golden HD
+http://190.60.49.243:4000/play/a07a
 #EXTINF:-1,HBO Family HD
-http://45.4.85.214:58001/play/a04x
+http://190.60.49.243:4000/play/a081
 #EXTINF:-1,HBO HD
-http://45.4.85.214:58001/play/a04u
+http://190.60.49.243:4000/play/a04s
 #EXTINF:-1,HBO Plus HD
 http://45.166.92.22:58001/play/a03u/index.m3u8
 #EXTINF:-1,HBO PlusHD
@@ -74,39 +66,35 @@ http://181.176.153.106:8090/play/a0we/index.m3u8
 #EXTINF:-1,HBO 2 HD 
 http://45.5.117.182:8000/play/a0eP/index.m3u8
 #EXTINF:-1,HBO 2 HD 2
-http://190.60.37.154:45000/play/a052/index.m3u8
+http://190.60.49.243:4000/play/a04z
 #EXTINF:-1,HBO POP HD 
 http://181.176.153.106:8090/play/a0qc/index.m3u8
 #EXTINF:-1,HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,History HD
-http://45.166.92.22:58001/play/a038/index.m3u8
-#EXTINF:-1,Home & Health HD
-http://45.166.92.22:58001/play/a015/index.m3u8
+http://190.60.49.243:4000/play/a06j
 #EXTINF:-1,Nat Geo HD
-http://190.60.38.114:1010/play/a045/index.m3u8
-#EXTINF:-1,Paramount HD
-http://45.166.92.22:58001/play/a01l/index.m3u8
+http://190.60.49.243:4000/play/a04n
 #EXTINF:-1,RCN HD 
-http://190.60.38.114:1010/play/a086/index.m3u8
+http://190.60.49.243:4000/play/a04j
 #EXTINF:-1,RCN HD 2
-https://live-b2.cf.dmcdn.net/sec2(ohgCOgPzS7KoFRggkKzf4ZPfGyUYl1bo9HF3OQDVGMWSJxkxf8pj_p0wva3BApJ5sLaAOA8_bXmTzoRF8-3L_ud0LUhrFsO9Z3q9r8TCldg)/cloud/3/x7vyv0z/s/live-720.m3u8
+http://190.60.49.243:4000/play/a09d
 #EXTINF:-1,SONY HD
-http://45.166.92.22:58001/play/a04a/index.m3u8
+http://190.60.49.243:4000/play/a06l
 #EXTINF:-1,SPACE HD
-http://45.166.92.22:58001/play/a02o/index.m3u8
+http://190.60.49.243:4000/play/a06o
 #EXTINF:-1,STAR CHANNEL HD
-http://45.166.92.22:58001/play/a048/index.m3u8
-#EXTINF:-1,STAR CHANNEL HD
-http://177.126.51.9:8000/play/a02o
-#EXTINF:-1,STAR CHANNEL HD
-http://177.126.51.9:8000/play/a00h
+http://190.60.49.243:4000/play/a07s
+#EXTINF:-1,STAR CHANNEL HD 2
+http://190.60.49.243:4000/play/a048
+#EXTINF:-1,STAR CHANNEL HD 3
+http://190.60.49.243:4000/play/a07r
 #EXTINF:-1,Studio UniversalHD
-http://190.60.38.114:1010/play/a049/index.m3u8
+http://190.60.49.243:4000/play/a04w
 #EXTINF:-1,TLC HD
 http://45.166.92.22:58001/play/a04o/index.m3u8
 #EXTINF:-1,TNT HD
-http://45.166.92.22:58001/play/a013/index.m3u8
+http://190.60.49.243:4000/play/a06z
 #EXTINF:-1,TNT HD 2
 http://181.176.153.106:8090/play/a0ig/index.m3u8
 #EXTINF:-1,Telemundo HD
@@ -128,10 +116,10 @@ http://45.5.117.3:4000/play/a07m/index.m3u8
 #EXTINF:-1,Univision HD
 http://45.166.92.22:58001/play/a01r/index.m3u8
 #EXTINF:-1,WARNER HD
-http://45.166.92.22:58001/play/a049/index.m3u8
+http://190.60.49.243:4000/play/a06m
 #EXTINF:-1,WARNER HD 2
 http://181.176.153.106:8090/play/a0q7/index.m3u8
 #EXTINF:-1,Win Sports HD
 http://179.1.201.133:54986/play/a03m
 #EXTINF:-1,Win Sports+ HD
-http://200.59.188.3:8000/play/a028
+http://190.60.49.243:4000/play/a050
