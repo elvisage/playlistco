@@ -28,23 +28,25 @@ http://190.60.49.243:4000/play/a07y
 #EXTINF:-1,TUDN HD
 http://190.185.121.102:58092/play/a00m
 #EXTINF:-1,ESPN 2 HD
-http://179.1.201.133:54986/play/a03g
+http://181.78.86.226:8086/play/a04l
+#EXTINF:-1,ESPN 2 HD
+http://181.78.86.226:8086/play/a054
 #EXTINF:-1,ESPN 3 HD
-http://179.1.201.133:54986/play/a03h
-#EXTINF:-1,ESPN 4 HD
-http://179.1.201.133:54986/play/a01z
-#EXTINF:-1,ESPN EXTRA HD
-http://179.1.201.133:54986/play/a033
+http://181.78.86.226:8086/play/a051
+#EXTINF:-1,ESPN 4HD
+http://181.78.86.226:8086/play/a014
+#EXTINF:-1,ESPN 5HD
+http://181.78.86.226:8086/play/a01e
+#EXTINF:-1,ESPN 6HD
+http://181.78.86.226:8086/play/a052
+#EXTINF:-1,ESPN 7HD
+http://181.78.86.226:8086/play/a05k
 #EXTINF:-1,ESPN HD
-http://179.1.201.133:54986/play/a07f
-#EXTINF:-1,GOL TV HD
-http://45.166.92.22:58001/play/a04k/index.m3u8
-#EXTINF:-1,TyCSports HD
-http://45.166.92.22:58001/play/a04d/index.m3u8
-#EXTINF:-1,FOX NEWS HD
-http://45.166.92.22:58001/play/a04p/index.m3u8
+http://181.78.86.226:8086/play/a04t
+#EXTINF:-1,ESPN HD
+http://181.78.86.226:8086/play/a06f
 #EXTINF:-1,FX HD
-http://190.60.49.243:4000/play/a04h
+http://170.83.242.9:5151/play/a04k
 #EXTINF:-1,Sony Movies HD
 http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1,Sony Movies HD 2
@@ -88,7 +90,7 @@ http://190.60.49.243:4000/play/a048
 #EXTINF:-1,STAR CHANNEL HD 3
 http://190.60.49.243:4000/play/a07r
 #EXTINF:-1,Studio UniversalHD
-http://190.60.49.243:4000/play/a04w
+http://170.83.242.9:5151/play/a0al
 #EXTINF:-1,TLC HD
 http://45.166.92.22:58001/play/a04o/index.m3u8
 #EXTINF:-1,TNT HD
