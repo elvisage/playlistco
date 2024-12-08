@@ -54,15 +54,13 @@ http://190.60.49.243:4000/play/a07g
 EXTINF:-1,Golden HD
 http://190.60.49.243:4000/play/a07a
 #EXTINF:-1,HBO Family HD
-http://190.60.49.243:4000/play/a081
+http://170.83.242.9:5151/play/a044
 #EXTINF:-1,HBO HD
-http://190.60.49.243:4000/play/a04s
-#EXTINF:-1,HBO Plus HD
-http://45.166.92.22:58001/play/a03u/index.m3u8
+http://170.83.242.9:5151/play/a04e
 #EXTINF:-1,HBO PlusHD
 http://45.5.117.182:8000/play/a0ea/index.m3u8
 #EXTINF:-1,HBO XTREME HD
-http://181.176.153.106:8090/play/a0we/index.m3u8
+http://170.83.242.9:5151/play/a049
 #EXTINF:-1,HBO 2 HD 
 http://45.5.117.182:8000/play/a0eP/index.m3u8
 #EXTINF:-1,HBO 2 HD 2
@@ -80,11 +78,11 @@ http://190.60.49.243:4000/play/a04j
 #EXTINF:-1,RCN HD 2
 http://190.60.49.243:4000/play/a09d
 #EXTINF:-1,SONY HD
-http://190.60.49.243:4000/play/a06l
+http://170.83.242.9:5151/play/a03x
 #EXTINF:-1,SPACE HD
 http://190.60.49.243:4000/play/a06o
 #EXTINF:-1,STAR CHANNEL HD
-http://190.60.49.243:4000/play/a07s
+http://170.83.242.9:5151/play/a0bm
 #EXTINF:-1,STAR CHANNEL HD 2
 http://190.60.49.243:4000/play/a048
 #EXTINF:-1,STAR CHANNEL HD 3
