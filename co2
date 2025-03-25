@@ -56,15 +56,17 @@ http://190.60.49.243:4000/play/a07g
 EXTINF:-1,Golden HD
 http://190.60.49.243:4000/play/a07a
 #EXTINF:-1,HBO Family HD
-http://179.63.36.2:8000/play/a0pq/index.m3u8
+http://190.60.55.141:9083/play/a0f5/index.m3u8
 #EXTINF:-1,HBO HD
-http://179.63.36.2:8000/play/a0py/index.m3u8
+http://190.60.55.141:9083/play/a0dh/index.m3u8
 #EXTINF:-1,HBO PlusHD
 http://190.111.16.106:40000/play/a042/index.m3u8
+#EXTINF:-1,HBO PlusHD 2
+http://45.228.233.254:18000/play/a00n/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://179.63.36.2:8000/play/a0pr/index.m3u8
 #EXTINF:-1,HBO 2 HD 
-190.111.16.106:40000/play/a041/index.m3u8
+http://45.228.233.254:18000/play/a00m/index.m3u8
 #EXTINF:-1,HBO 2 HD 2
 http://179.63.36.2:8000/play/a0jq/index.m3u8
 #EXTINF:-1,HBO POP HD 
