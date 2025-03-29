@@ -28,23 +28,25 @@ http://190.60.49.243:4000/play/a07y
 #EXTINF:-1,TUDN HD
 190.111.16.106:40000/play/a09p/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://179.63.36.2:8000/play/a0o1/index.m3u8
+http://190.107.20.43:6004/play/a06w
 #EXTINF:-1,ESPN 3 HD
-http://189.127.167.71:8000/play/a06g
-#EXTINF:-1,ESPN 4HD
-http://179.63.36.2:8000/play/a0pz/index.m3u8
+http://190.107.20.43:6004/play/a07t
+#EXTINF:-1,ESPN 4 HD
+http://190.107.20.43:6004/play/a06h
 #EXTINF:-1,ESPN 5
-http://189.127.167.71:8000/play/a073
-#EXTINF:-1,ESPN 5HD
-http://189.127.167.71:8000/play/a068
-#EXTINF:-1,ESPN 6HD
-http://189.127.167.71:8000/play/a042
-#EXTINF:-1,ESPN 7HD
-http://189.127.167.71:8000/play/a069
+http://190.107.20.43:6004/play/a0c4
+#EXTINF:-1,ESPN 5 HD
+http://190.107.20.43:6004/play/a07l
+#EXTINF:-1,ESPN 6 HD
+http://190.107.20.43:6004/play/a061
+#EXTINF:-1,ESPN 7
+http://190.107.20.43:6004/play/a0a7
+#EXTINF:-1,ESPN 7 HD
+http://190.107.20.43:6004/play/a07m
 #EXTINF:-1,ESPN HD
-http://179.63.36.2:8000/play/a0o2/index.m3u8
+http://190.107.20.43:6004/play/a0df
 #EXTINF:-1,ESPN Premium HD
-http://189.127.167.71:8000/play/a050
+http://190.107.20.43:6004/play/a0dh
 #EXTINF:-1,FX HD
 http://170.83.242.9:5151/play/a04k
 #EXTINF:-1,Sony Movies HD
