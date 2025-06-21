@@ -65,18 +65,16 @@ http://190.60.49.243:4000/play/a07a
 http://190.52.105.146:8000/play/a0fr/index.m3u8
 #EXTINF:-1,HBO HD
 http://190.60.55.141:9083/play/a0dh/index.m3u8
-#EXTINF:-1,HBO PlusHD
-http://190.111.16.106:40000/play/a042/index.m3u8
-#EXTINF:-1,HBO PlusHD 2
-http://200.107.142.38:9000/play/a02h/index.m3u8
+#EXTINF:-1,HBO Plus HD
+http://179.61.31.142:8000/play/a01t/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://190.52.105.146:8000/play/a0fw/index.m3u8
 #EXTINF:-1,HBO 2 HD 
-http://45.228.233.254:18000/play/a00m/index.m3u8
-#EXTINF:-1,HBO 2 HD 2
-http://179.63.36.2:8000/play/a0jq/index.m3u8
+http://179.61.31.142:8000/play/a09z/index.m3u8
 #EXTINF:-1,HBO POP HD 
 http://181.176.153.106:8090/play/a0qc/index.m3u8
+#EXTINF:-1,HBO POP HD 2
+http://217.26.190.76:8888/play/a0dz/index.m3u8
 #EXTINF:-1,HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,History HD
