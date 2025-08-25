@@ -1,58 +1,34 @@
 #EXTM3U
-#EXTINF:-1,Caracol HD
-http://190.107.20.43:6004/play/a0d3
 #EXTINF:-1,CARACOL TV HD
-http://190.171.83.2:4000/play/a0ho/index.m3u8
-#EXTINF:-1,CARTOON NT HD
-http://45.166.92.22:58001/play/a03y/index.m3u8
+http://186.194.160.110:9002/play/a00z/index.m3u8
 #EXTINF:-1,CINECANAL HD
-http://190.60.49.243:4000/play/a04p
+http://143.0.67.77:8000/play/a07b/index.m3u8
 #EXTINF:-1,Cinemax HD 
 http://190.60.49.243:4000/play/a075
-#EXTINF:-1,Comedy Central HD
-http://190.60.49.243:4000/play/a084
 #EXTINF:-1,Discovery H&H HD
-http://190.60.49.243:4000/play/a046
-#EXTINF:-1,Discovery Channel HD
-http://190.60.49.243:4000/play/a07y
+http://143.0.67.77:8000/play/a07h/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://190.52.105.146:8000/play/a00l/index.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://190.52.105.146:8000/play/a0h1/index.m3u8
-#EXTINF:-1,ESPN 2 Latin
-http://190.52.105.146:8000/play/a03h/index.m3u8
+http://143.0.67.77:8000/play/a059/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://190.52.105.146:8000/play/a0gq/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://190.52.105.146:8000/play/a011/index.m3u8
-#EXTINF:-1,ESPN 4HD
-http://190.52.105.146:8000/play/a091/index.m3u8
 #EXTINF:-1,ESPN 5
 http://190.52.105.146:8000/play/a045/index.m3u8
-#EXTINF:-1,ESPN 5HD
-http://190.52.105.146:8000/play/a0gi/index.m3u8
-#EXTINF:-1,ESPN 5HD
+#EXTINF:-1,ESPN 5 HD
 http://190.52.105.146:8000/play/a09r/index.m3u8
 #EXTINF:-1,ESPN 6
 http://190.52.105.146:8000/play/a03s/index.m3u8
 #EXTINF:-1,ESPN 6HD
-http://190.52.105.146:8000/play/a0gc/index.m3u8
-#EXTINF:-1,ESPN 6HD
 http://190.52.105.146:8000/play/a0as/index.m3u8
-#EXTINF:-1,ESPN 6HD
-http://190.52.105.146:8000/play/a012/index.m3u8
 #EXTINF:-1,ESPN 7
 http://190.52.105.146:8000/play/a03r/index.m3u8
-#EXTINF:-1,ESPN HD
-http://190.52.105.146:8000/play/a00t/index.m3u8
 #EXTINF:-1,ESPN HD
 http://190.52.105.146:8000/play/a0h6/index.m3u8
 #EXTINF:-1,ESPN Premium HD
 http://190.52.105.146:8000/play/a0h9/index.m3u8
-#EXTINF:-1,ESPN Premium HD
-http://190.52.105.146:8000/play/a0a2/index.m3u8
 #EXTINF:-1,FX HD
-http://170.83.242.9:5151/play/a04k
+http://186.194.160.110:9002/play/a0c2/index.m3u8
 #EXTINF:-1,Sony Movies HD
 http://45.166.92.22:58001/play/a00u/index.m3u8
 #EXTINF:-1,Sony Movies HD 2
@@ -84,39 +60,17 @@ http://8.243.67.133:8003/play/a044/index.m3u8
 #EXTINF:-1,RCN HD 2
 http://190.60.49.243:4000/play/a09d
 #EXTINF:-1,SONY HD
-http://189.127.167.71:8000/play/a04d
+http://45.181.206.7:10000/play/a0p9
 #EXTINF:-1,SPACE HD
-http://190.60.49.243:4000/play/a06o
+http://45.181.206.7:10000/play/a0py
 #EXTINF:-1,STAR CHANNEL HD
-http://189.127.167.71:8000/play/a05o
+http://45.181.206.7:10000/play/a0pi
 #EXTINF:-1,Studio UniversalHD
-http://189.127.167.71:8000/play/a04u
-#EXTINF:-1,TLC HD
-http://45.166.92.22:58001/play/a04o/index.m3u8
+http://45.181.206.7:10000/play/a0ns
 #EXTINF:-1,TNT HD
-http://190.60.49.243:4000/play/a06z
-#EXTINF:-1,TNT HD 2
-http://181.176.153.106:8090/play/a0ig/index.m3u8
-#EXTINF:-1,Telemundo HD
-http://45.166.92.22:58001/play/a00r/index.m3u8
-#EXTINF:-1,Tru TV HD
-http://161.132.108.74:50001/play/a00d/index.m3u8
-#EXTINF:-1,UNIVERSAL CINEMA ESTE HD
-http://45.5.117.3:4000/play/a082/index.m3u8
-#EXTINF:-1,UNIVERSAL COMEDY HD
-http://45.5.117.3:4000/play/a07o/index.m3u8
-#EXTINF:-1,UNIVERSAL CRIME HD
-http://45.5.117.3:4000/play/a07n/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE HD
-http://45.5.117.3:4000/play/a07k/index.m3u8
-#EXTINF:-1,UNIVERSAL PREMIERE O HD
-http://45.5.117.3:4000/play/a07l/index.m3u8
-#EXTINF:-1,UNIVERSAL REALITY HD
-http://45.5.117.3:4000/play/a07m/index.m3u8
-#EXTINF:-1,Univision HD
-http://45.166.92.22:58001/play/a01r/index.m3u8
+http://45.181.206.7:10000/play/a0p6
 #EXTINF:-1,WARNER HD
-http://190.60.49.243:4000/play/a06m
+http://45.181.206.7:10000/play/a0px
 #EXTINF:-1,WARNER HD 2
 http://181.176.153.106:8090/play/a0q7/index.m3u8
 #EXTINF:-1,Win Sports HD
@@ -124,4 +78,4 @@ http://179.1.201.133:54986/play/a03m
 #EXTINF:-1,Win Sports+ HD 2
 http://179.1.199.50:9000/play/a00v
 #EXTINF:-1,Win Sports+ HD
-http://8.243.67.133:8003/play/a08m/index.m3u8
+http://45.181.206.7:10000/play/a0re
