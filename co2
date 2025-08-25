@@ -29,14 +29,8 @@ http://190.52.105.146:8000/play/a0h6/index.m3u8
 http://190.52.105.146:8000/play/a0h9/index.m3u8
 #EXTINF:-1,FX HD
 http://186.194.160.110:9002/play/a0c2/index.m3u8
-#EXTINF:-1,Sony Movies HD
-http://45.166.92.22:58001/play/a00u/index.m3u8
-#EXTINF:-1,Sony Movies HD 2
-http://177.126.51.9:8000/play/a007
-#EXTINF:-1,Food Network HD
-http://190.60.49.243:4000/play/a07g
 EXTINF:-1,Golden HD
-http://190.60.49.243:4000/play/a07a
+http://45.186.106.220:5550/play/a00k/index.m3u8
 #EXTINF:-1,HBO Family HD
 http://190.52.105.146:8000/play/a0fr/index.m3u8
 #EXTINF:-1,HBO HD
@@ -52,13 +46,11 @@ http://217.26.190.76:8888/play/a0dz/index.m3u8
 #EXTINF:-1,HISTORY 2 HD
 http://45.166.92.22:58001/play/a04x/index.m3u8
 #EXTINF:-1,History HD
-http://190.60.49.243:4000/play/a06j
+http://45.186.106.220:5550/play/a01e/index.m3u8
 #EXTINF:-1,Nat Geo HD
-http://190.60.49.243:4000/play/a04n
-#EXTINF:-1,RCN HD 
-http://8.243.67.133:8003/play/a044/index.m3u8
-#EXTINF:-1,RCN HD 2
-http://190.60.49.243:4000/play/a09d
+http://45.186.106.220:5550/play/a04j/index.m3u8
+#EXTINF:-1,RCN HD
+http://186.194.160.110:9002/play/a00r/index.m3u8
 #EXTINF:-1,SONY HD
 http://45.181.206.7:10000/play/a0p9
 #EXTINF:-1,SPACE HD
