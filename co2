@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CARACOL TV HD
-http://181.78.83.106:8081/play/a02z
+http://181.174.231.146:18000/play/a0it
 #EXTINF:-1,CINECANAL HD
 http://8.242.189.218:9000/play/a038/index.m3u8
 #EXTINF:-1,Cinemax HD 
