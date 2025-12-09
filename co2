@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1,CARACOL TV HD
-http://38.51.234.11:8888/play/a0gg
+http://38.199.4.105:9999/play/a03n/index.m3u8
 #EXTINF:-1,CARACOL TV HD 2
 http://129.222.202.191:8000/play/a01a/index.m3u8
 #EXTINF:-1,CINECANAL HD
@@ -10,7 +10,7 @@ http://190.60.49.243:4000/play/a075
 #EXTINF:-1,Discovery H&H HD
 http://143.0.67.77:8000/play/a07h/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://201.220.102.178:8000/play/a0al/index.m3u8
+http://200.92.227.238:8000/play/a0tk/index.m3u8
 #EXTINF:-1,ESPN 3 HD
 http://38.210.3.64:8090/play/a0jb
 #EXTINF:-1,ESPN 4HD
@@ -26,15 +26,15 @@ http://38.210.3.64:8090/play/a0ja
 #EXTINF:-1,ESPN Premium HD
 http://190.52.105.146:8000/play/a0h9/index.m3u8
 #EXTINF:-1,FX HD
-http://201.220.102.178:8000/play/a0es/index.m3u8
+http://38.199.4.105:9999/play/a0hl/index.m3u8
 EXTINF:-1,Golden HD
 http://45.186.106.220:5550/play/a00k/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://38.199.4.160:93/play/a0c1
+http://200.92.227.238:8000/play/a0mt/index.m3u8
 #EXTINF:-1,HBO HD
-http://38.199.4.160:93/play/a07x
+http://200.92.227.238:8000/play/a0mq/index.m3u8
 #EXTINF:-1,HBO Plus HD
-http://38.199.4.160:93/play/a0c0
+http://200.92.227.238:8000/play/a0ms/index.m3u8
 #EXTINF:-1,HBO XTREME HD
 http://38.210.3.64:8090/play/a0j0
 #EXTINF:-1,HBO 2 HD 
